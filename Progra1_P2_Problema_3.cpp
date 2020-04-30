@@ -27,7 +27,7 @@ void mp(){
 	do {
 		system("CLS");
 		cout<<"--------------------------"<<"\n";
-		cout<<" Menu Principal"<<"\n";
+		cout<<" Menu Principal hola"<<"\n";
 		cout<<"-------------------"<<"\n";
 		cout<<" 1 - Cargar datos de ventas"<<"\n";
 		cout<<" 2 - Verificar que pedidos pueden entregarse "<<"\n";
